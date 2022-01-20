@@ -56,7 +56,7 @@ From here, run one of those commands in terminal and once finished you'll get an
 
 ![](../images/installer-guide/legacy-mac-install-md/download-done.png)
 
-Once this is done, format your USB as FAT32 with GUID Partition Scheme:
+Once this is done, format your USB as "Mac OS Extended (Journaled)" with GUID Partition Scheme:
 
 ![](../images/installer-guide/legacy-mac-install-md/fat32-erase.png)
 
